@@ -11,6 +11,8 @@ Tento kód je implementací jednoduché hry pomocí knihovny Pygame. Zde je pře
     V herní smyčce zpracovává události, jako stisk kláves, kolize projektily s loděmi a vyhodnocení vítěze.
     Po vyhodnocení vítěze vykresluje vítěznou zprávu a ukončuje hru
 
+V assets v PC jsou uloženy zvuku, obrázku a landscape, tedy pozadí hry.
+
 English:
 
 This code is an implementation of a simple game using the Pygame library. Here's an overview of what the code does:
@@ -23,4 +25,6 @@ This code is an implementation of a simple game using the Pygame library. Here's
     In the main function, main initializes game objects and variables and creates a game loop.
     In the game loop, it handles events such as key presses, projectile collisions with ships, and winner evaluation.
     After evaluating the winner, it renders a victory message and ends the game.
+    
+ In assets at PC there are save a sounds, images.
 
